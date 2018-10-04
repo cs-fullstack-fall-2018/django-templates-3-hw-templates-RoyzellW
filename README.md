@@ -6,3 +6,4 @@ Please read the following article on using templates in Django: https://docs.dja
 
 WRITE YOUR 3 ANSWERS BELOW
 
+Variable names cannot start with an underscore. 
